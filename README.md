@@ -22,7 +22,7 @@
   <br>
   <div>
   <a href="https://instagram.com/amdgmr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:amandagpontes@outlook.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" target="_blank"></a>
+  <a href = "mailto:amandagpontes@outlook.com"><img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg](https://raw.githubusercontent.com/PlanetWilson/Office365icons/62479577bc535e75e5253a90b8521fc2759e80c2/Outlook_OfficeCore10_32x_24x_20x_16x_01-22-2019.svg)https://raw.githubusercontent.com/PlanetWilson/Office365icons/62479577bc535e75e5253a90b8521fc2759e80c2/Outlook_OfficeCore10_32x_24x_20x_16x_01-22-2019.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amanda-pontess/" target="_blank"></a> 
   </div>
 
