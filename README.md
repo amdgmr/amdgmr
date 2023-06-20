@@ -19,11 +19,11 @@
     <br>
 
 </div>
-  
+  <br>
   <div>
   <a href="https://instagram.com/amdgmr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:amandagpontes@outlook.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://www.shareicon.net/data/2016/06/24/618246_outlook_2000x2000.png)" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amanda-pontess/" target="_blank"> 
+  <a href = "mailto:amandagpontes@outlook.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/amanda-pontess/" target="_blank"></a> 
   </div>
 
 
