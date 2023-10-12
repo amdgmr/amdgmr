@@ -1,7 +1,7 @@
 ## Olá! Eu sou Amanda Pontes
 
 -📘 Cursando Design UI/UX e Front End<br>
--🖥️ Estudando as linguagens de HTML5, CSS3 e JavaScript<br>
+<br>
 -📫 Contate-me no email: amandagpontes@outlook.com<br>
 
    
