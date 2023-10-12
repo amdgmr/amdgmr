@@ -1,7 +1,6 @@
 ## Olá! Eu sou Amanda Pontes
 
--🔭  Atualmente eu trabalho como Control Desk.<br>
--📘 Cursando faculdade de Análise e Desenvolvimento de Sistema<br>
+-📘 Cursando Design UI/UX e Front End<br>
 -🖥️ Estudando as linguagens de HTML5, CSS3 e JavaScript<br>
 -📫 Contate-me no email: amandagpontes@outlook.com<br>
 
